@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MukulKharolia/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulKharolia/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/MukulKharolia/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MukulKharolia/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/MukulKharolia/Leetcode/tree/master/0076-minimum-window-substring) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Linked List
 |  |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/MukulKharolia/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
