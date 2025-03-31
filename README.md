@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MukulKharolia/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulKharolia/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/MukulKharolia/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0229-majority-element-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/MukulKharolia/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -20,8 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/MukulKharolia/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/MukulKharolia/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0229-majority-element-ii) |
-| [0242-valid-anagram](https://github.com/MukulKharolia/Leetcode/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Linked List
@@ -42,7 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/MukulKharolia/Leetcode/tree/master/0076-minimum-window-substring) |
-| [0242-valid-anagram](https://github.com/MukulKharolia/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MukulKharolia/Leetcode/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MukulKharolia/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Matrix
@@ -82,11 +83,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MukulKharolia/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0229-majority-element-ii) |
-| [0242-valid-anagram](https://github.com/MukulKharolia/Leetcode/tree/master/0242-valid-anagram) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MukulKharolia/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
