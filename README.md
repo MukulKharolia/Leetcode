@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MukulKharolia/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MukulKharolia/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0782-jewels-and-stones](https://github.com/MukulKharolia/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MukulKharolia/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MukulKharolia/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/MukulKharolia/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/MukulKharolia/Leetcode/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/MukulKharolia/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MukulKharolia/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MukulKharolia/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MukulKharolia/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
