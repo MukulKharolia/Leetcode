@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/MukulKharolia/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/MukulKharolia/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/MukulKharolia/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
