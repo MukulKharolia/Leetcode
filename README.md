@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MukulKharolia/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulKharolia/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2058-concatenation-of-array](https://github.com/MukulKharolia/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulKharolia/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/MukulKharolia/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
