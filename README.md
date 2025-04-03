@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/MukulKharolia/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MukulKharolia/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MukulKharolia/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/MukulKharolia/Leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MukulKharolia/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MukulKharolia/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/MukulKharolia/Leetcode/tree/master/2634-minimum-common-value) |
