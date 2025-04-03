@@ -10,6 +10,7 @@ class Solution {
             }
             if(st!=mid && mid!=en && nums[st]==nums[mid] && nums[mid]==nums[en]){
                 en--;
+                st++;
             }
             else if(nums[st]<=nums[mid]){
                 if(nums[st]<=target && target<nums[mid]){
