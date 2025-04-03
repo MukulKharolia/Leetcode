@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/MukulKharolia/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/MukulKharolia/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/MukulKharolia/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MukulKharolia/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/MukulKharolia/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
