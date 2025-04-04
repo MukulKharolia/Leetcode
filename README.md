@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/MukulKharolia/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MukulKharolia/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/MukulKharolia/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3221-find-the-peaks](https://github.com/MukulKharolia/Leetcode/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MukulKharolia/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/MukulKharolia/Leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
