@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/MukulKharolia/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/MukulKharolia/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2047-find-a-peak-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/MukulKharolia/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MukulKharolia/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MukulKharolia/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MukulKharolia/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MukulKharolia/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MukulKharolia/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MukulKharolia/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/MukulKharolia/Leetcode/tree/master/2634-minimum-common-value) |
 ## Simulation
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MukulKharolia/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/MukulKharolia/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2047-find-a-peak-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
