@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MukulKharolia/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/MukulKharolia/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/MukulKharolia/Leetcode/tree/master/3221-find-the-peaks) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MukulKharolia/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/MukulKharolia/Leetcode/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MukulKharolia/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/MukulKharolia/Leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/MukulKharolia/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
