@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MukulKharolia/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/MukulKharolia/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/MukulKharolia/Leetcode/tree/master/0069-sqrtx) |
 | [0371-sum-of-two-integers](https://github.com/MukulKharolia/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MukulKharolia/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MukulKharolia/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MukulKharolia/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/MukulKharolia/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukulKharolia/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
