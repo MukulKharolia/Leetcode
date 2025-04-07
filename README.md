@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MukulKharolia/Leetcode/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MukulKharolia/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
