@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/MukulKharolia/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MukulKharolia/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MukulKharolia/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/MukulKharolia/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/MukulKharolia/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/MukulKharolia/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MukulKharolia/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2486-most-frequent-even-element](https://github.com/MukulKharolia/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2634-minimum-common-value](https://github.com/MukulKharolia/Leetcode/tree/master/2634-minimum-common-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MukulKharolia/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MukulKharolia/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/MukulKharolia/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Counting Sort
 |  |
 | ------- |
