@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MukulKharolia/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/MukulKharolia/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MukulKharolia/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MukulKharolia/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MukulKharolia/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/MukulKharolia/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -241,17 +242,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MukulKharolia/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MukulKharolia/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MukulKharolia/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MukulKharolia/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MukulKharolia/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MukulKharolia/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MukulKharolia/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MukulKharolia/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
