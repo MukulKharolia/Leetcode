@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/MukulKharolia/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/MukulKharolia/Leetcode/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/MukulKharolia/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/MukulKharolia/Leetcode/tree/master/0812-rotate-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MukulKharolia/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MukulKharolia/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MukulKharolia/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/MukulKharolia/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0090-subsets-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/MukulKharolia/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
