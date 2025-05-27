@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MukulKharolia/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MukulKharolia/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/MukulKharolia/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
 | ------- |
