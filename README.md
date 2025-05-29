@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MukulKharolia/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/MukulKharolia/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/MukulKharolia/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MukulKharolia/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MukulKharolia/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/MukulKharolia/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MukulKharolia/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MukulKharolia/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/MukulKharolia/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MukulKharolia/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2486-most-frequent-even-element](https://github.com/MukulKharolia/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MukulKharolia/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MukulKharolia/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/MukulKharolia/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MukulKharolia/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -294,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MukulKharolia/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
