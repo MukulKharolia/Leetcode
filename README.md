@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/MukulKharolia/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/MukulKharolia/Leetcode/tree/master/0812-rotate-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MukulKharolia/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/MukulKharolia/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MukulKharolia/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MukulKharolia/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/MukulKharolia/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/MukulKharolia/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/MukulKharolia/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2128-reverse-prefix-of-word](https://github.com/MukulKharolia/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2634-minimum-common-value](https://github.com/MukulKharolia/Leetcode/tree/master/2634-minimum-common-value) |
 ## Greedy
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/MukulKharolia/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/MukulKharolia/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/MukulKharolia/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Trie
 |  |
 | ------- |
