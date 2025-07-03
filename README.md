@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MukulKharolia/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/MukulKharolia/Leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MukulKharolia/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MukulKharolia/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2486-most-frequent-even-element](https://github.com/MukulKharolia/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/MukulKharolia/Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MukulKharolia/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/MukulKharolia/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MukulKharolia/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MukulKharolia/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MukulKharolia/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MukulKharolia/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Counting Sort
 |  |
 | ------- |
