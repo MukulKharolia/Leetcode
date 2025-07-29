@@ -22,7 +22,7 @@ class Solution {
         }
         int up=ans(f,m-1,n,arr);
         int left=ans(f,m,n-1,arr);
-        // f[m][n]=up+left;
-        return f[m][n]=up+left;
+        f[m][n]=up+left;
+        return up+left;
     }
 }
