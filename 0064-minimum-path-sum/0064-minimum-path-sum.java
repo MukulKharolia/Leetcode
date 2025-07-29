@@ -9,7 +9,7 @@ class Solution {
                 if(i==0 && j==0){
                     continue;
                 }
-                else if(i>=0 && j>=0){
+                else{
                     if(i-1<0){
                         f[i][j]=grid[i][j]+f[i][j-1];
                     }
