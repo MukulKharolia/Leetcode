@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/MukulKharolia/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/MukulKharolia/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MukulKharolia/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0090-subsets-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MukulKharolia/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/MukulKharolia/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/MukulKharolia/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MukulKharolia/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MukulKharolia/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MukulKharolia/Leetcode/tree/master/0198-house-robber) |
