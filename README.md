@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MukulKharolia/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/MukulKharolia/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MukulKharolia/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MukulKharolia/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MukulKharolia/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MukulKharolia/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/MukulKharolia/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MukulKharolia/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MukulKharolia/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/MukulKharolia/Leetcode/tree/master/0198-house-robber) |
