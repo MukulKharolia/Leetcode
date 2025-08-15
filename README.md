@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MukulKharolia/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/MukulKharolia/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MukulKharolia/Leetcode/tree/master/0069-sqrtx) |
+| [0342-power-of-four](https://github.com/MukulKharolia/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/MukulKharolia/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/MukulKharolia/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/MukulKharolia/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MukulKharolia/Leetcode/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/MukulKharolia/Leetcode/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/MukulKharolia/Leetcode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/MukulKharolia/Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0090-subsets-ii) |
+| [0342-power-of-four](https://github.com/MukulKharolia/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MukulKharolia/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
