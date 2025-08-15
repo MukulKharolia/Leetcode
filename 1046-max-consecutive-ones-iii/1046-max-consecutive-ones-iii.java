@@ -10,19 +10,16 @@ class Solution {
             }
             if(z>k){
                 while(z!=k){
-                    if(nums[l]!=0){
-                        l++;
-                    }
-                    else{
+                    if(nums[l]==0){
                         z--;
-                        l++;
                     }
+                    l++;
                 }
             }
-            r++;
             int len=r-l+1;
             max=Math.max(max,len);
+            r++;
         }
-        return max-1;
+        return max;
     }
 }
