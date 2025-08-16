@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/MukulKharolia/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MukulKharolia/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MukulKharolia/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/MukulKharolia/Leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2050-count-good-numbers](https://github.com/MukulKharolia/Leetcode/tree/master/2050-count-good-numbers) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MukulKharolia/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/MukulKharolia/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
+| [1448-maximum-69-number](https://github.com/MukulKharolia/Leetcode/tree/master/1448-maximum-69-number) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MukulKharolia/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Binary Search
 |  |
