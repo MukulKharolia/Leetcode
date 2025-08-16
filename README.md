@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MukulKharolia/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MukulKharolia/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/MukulKharolia/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/MukulKharolia/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/MukulKharolia/Leetcode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MukulKharolia/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukulKharolia/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
 | [0782-jewels-and-stones](https://github.com/MukulKharolia/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/MukulKharolia/Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0940-fruit-into-baskets](https://github.com/MukulKharolia/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/MukulKharolia/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MukulKharolia/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/MukulKharolia/Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/MukulKharolia/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/MukulKharolia/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukulKharolia/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MukulKharolia/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MukulKharolia/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
