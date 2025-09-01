@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/MukulKharolia/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/MukulKharolia/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1917-maximum-average-pass-ratio](https://github.com/MukulKharolia/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii](https://github.com/MukulKharolia/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/MukulKharolia/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MukulKharolia/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/MukulKharolia/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
 | [1448-maximum-69-number](https://github.com/MukulKharolia/Leetcode/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/MukulKharolia/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/MukulKharolia/Leetcode/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 ## Binary Search
 |  |
@@ -352,4 +354,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
+| [1917-maximum-average-pass-ratio](https://github.com/MukulKharolia/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
