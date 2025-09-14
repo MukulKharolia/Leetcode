@@ -357,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/MukulKharolia/Leetcode/tree/master/0621-task-scheduler) |
 | [1917-maximum-average-pass-ratio](https://github.com/MukulKharolia/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/MukulKharolia/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
