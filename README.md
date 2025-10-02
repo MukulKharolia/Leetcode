@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MukulKharolia/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/MukulKharolia/Leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/MukulKharolia/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/MukulKharolia/Leetcode/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/MukulKharolia/Leetcode/tree/master/2050-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/MukulKharolia/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2679-count-distinct-numbers-on-board](https://github.com/MukulKharolia/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/MukulKharolia/Leetcode/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/MukulKharolia/Leetcode/tree/master/0861-flipping-an-image) |
+| [1642-water-bottles](https://github.com/MukulKharolia/Leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/MukulKharolia/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MukulKharolia/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MukulKharolia/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
