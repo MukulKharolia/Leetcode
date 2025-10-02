@@ -7,12 +7,10 @@ class Solution {
         return arr;
     }
     public static void res(String s, List<String> arr, StringBuilder sb,int i){
-        if(i==s.length()){
+        if(sb.length()==s.length()){
             arr.add(sb.toString());
             return;
         }
-        // Character a1=s.charAt(i);
-        // Character a2=Character.toUpperCase(s.charAt(i));
         sb.append(Character.toLowerCase(s.charAt(i)));
         res(s,arr,sb,i+1);
         sb.deleteCharAt(sb.length()-1);
