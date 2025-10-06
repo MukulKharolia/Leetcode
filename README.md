@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MukulKharolia/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MukulKharolia/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/MukulKharolia/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MukulKharolia/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0090-subsets-ii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MukulKharolia/Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/MukulKharolia/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/MukulKharolia/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/MukulKharolia/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/MukulKharolia/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/MukulKharolia/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/MukulKharolia/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MukulKharolia/Leetcode/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/MukulKharolia/Leetcode/tree/master/0800-letter-case-permutation) |
 ## String Matching
